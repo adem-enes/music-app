@@ -1,0 +1,3 @@
+[submodule "src/my-ui-lib"]
+	path = src/my-ui-lib
+	url = https://github.com/adem-enes/my-ui-lib.git
